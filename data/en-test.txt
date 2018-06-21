@@ -1,0 +1,250 @@
+a person is on a baseball team .	a person is playing basketball on a team .	2.400000
+our current vehicles will be in museums when everyone has their own aircraft .	the car needs to some work	0.200000
+a woman supervisor is instructing the male workers .	a woman is working as a nurse .	1.000000
+a bike is next to a couple women .	a child next to a bike .	2.000000
+the group is eating while taking in a breathtaking view .	a group of people take a look at an unusual tree .	2.200000
+the boy is raising his hand .	the man is raising his hand .	3.400000
+a man with a gray beard is being shaved in front of a lecture hall	a man with a beard is sitting in the grass .	0.800000
+the sky has very little to no clouds .	this lady might be ready for rock climbing , or just watching the clouds , above .	0.400000
+the young boy jumps barefoot outside in the front yard .	the teen rode his bike around the people walking in the courtyard .	0.400000
+there are dogs in the forest .	the dogs are alone in the forest .	4.000000
+some cyclists stop near a sign .	two men stop to talk near a sign outside .	3.400000
+these cooks in the white are busy in the kitchen making dinner for their customers .	the women are preparing dinner in their kitchen .	3.000000
+a young person deep in thought .	a young man deep in thought .	4.600000
+a man is carrying a canoe with a dog .	a dog is carrying a man in a canoe .	1.800000
+a man is performing labor .	a man is performing today .	2.800000
+two men wearing traditional clothing is standing outside .	three women wearing black vests and gray shirts are talking outside of a building .	2.000000
+a woman watches a rap group live	an audience watches a girl dance .	2.200000
+a girl dancing on a sandy beach .	a girl is on a sandy beach .	3.600000
+a man wearing a gray hat fishing out of a fishing boat .	a man wearing a straw hat and fishing vest in a stream .	2.600000
+a little girl in an orange striped outfit is airborne whilst bouncing on a bed .	a dog in a red shirt is chasing a squirrel through the glass .	0.200000
+a person is watching people ski down the hill .	the woman is jumping a long distance while people watch .	1.400000
+the yard has a dog .	the dog is running after another dog .	1.600000
+the woman is drinking lemonade and watching t.v .	the man is sitting drinking coffee .	0.400000
+three women cook .	two women cooking .	3.200000
+the woman is kneeling next to a cat .	a girl is standing next to a man .	0.200000
+the young adult are cold	asian children are playing with a dog .	0.200000
+three guys playing a pro game of basketball .	two guys playing a game of baseball .	2.400000
+a sad man is jumping over a small stream to meet his companion on the other side .	a man is jumping over a stream to meet his companion on the other side .	3.800000
+the boys are earning their next belt in karate .	five girls and one boy are in their swimsuits all in the middle of jumping into the pool .	0.200000
+a woman is digging in the sand .	a man is buried in the sand .	1.400000
+a woman drives a golf cart .	a man riding a cart .	1.800000
+a woman is bungee jumping .	a girl is bungee jumping .	4.200000
+a clown performs for brother and sister as the rest of the party watches .	a blond-haired child performing on the trumpet in front of a house while his younger brother watches .	1.200000
+a person filming the outdoors .	there is a couple outdoors .	1.600000
+a human riding a skateboard .	a child is riding a skateboard .	3.800000
+a woman in a plaid outfit is looking through a bag of produce .	this is the picture of a woman in a flowered dress , toting something in a bucket .	1.000000
+four girls happily walk down a sidewalk .	three young girls walk down a sidewalk .	3.400000
+the tennis player hit the ball into outer space and broke the death star .	a female tennis player is leaping into the air to hit the ball .	1.200000
+a boy climbs a forest hill .	a boy is climbing a hill .	4.000000
+a group of navy seals are singing	a group of military personnel are playing in a brass quintet .	2.400000
+blond boy jumping onto deck .	a boy jumping down a wet inflatable slide .	2.000000
+a man uses a chainsaw to sculpt a phallic ice sculpture .	a man is using a chainsaw to carve a wooden sculpture .	2.600000
+a group of male construction workers repair railroad tracks on a cloudy day	a crew of workers working on a railroad track .	3.800000
+a man playing the violin in the rain .	a man playing the guitar in the rain .	3.200000
+the people are leaving the airplane .	the people are entering the plane .	2.200000
+the dogs are chasing a cat .	the dogs are chasing a black cat .	4.400000
+the girl has something on her head .	the woman has something with her .	2.600000
+the tan dog is playing with the red dog out in the snow	a yellow dog is playing in the snow .	2.600000
+people making a structure out of cards .	two people are together and one is using a piece of clothing in a different way than intended .	0.200000
+a girl with vases in the background inside her house	the girl is standing as the other girl with glasses works on her hand painting .	0.200000
+there are four people outside .	five people are outside .	3.000000
+a person sitting in an office takes a picture .	a woman is sitting in an office .	3.200000
+girls are holding hands in blue clothes	the young people are wearing jeans with their red and green shirts .	1.800000
+people rock jumping into water while people fish in the background .	two people watching the water .	2.200000
+a man is demonstrating how to work with clay while at least two people observe .	at least one of the three women is talking to the others .	0.600000
+a dog has a sweater on .	a man in a suit jacket is sitting on a red couch with a cat .	0.600000
+a blonde woman looks for medical supplies for work in a suitcase .	the blond woman is searching for medical supplies in a suitcase .	5.000000
+a boy is at school taking a test .	the boy is taking a test at school .	5.000000
+an old man wearing a hat stands outside a shop door .	a man in an oversized shirt sits at a shop	2.200000
+sculptor applying concrete to large statue of human figure standing with no head .	a person is standing in front of a building holding aloft some plywood	0.200000
+a boy with dark hair is in water and is looking up .	the man is short hair .	0.600000
+a pole is behind a person that is playing peekaboo with a child .	there is a child with a ball	0.200000
+a woman is about to paint .	a boy is about to take a picture .	1.000000
+the carriage is drawn by a horse .	a man riding on a bicycle by side of building .	0.400000
+a man working at the steel mill	a man working in a foundry .	3.400000
+the young woman is flirting with the young boy .	the girl is young and cheery .	1.400000
+a woman looks at a duck as she walks behind it .	a woman is going on a walk with her dog .	1.000000
+the men are about to score in a water polo tournament	the two men are about to compete in a match .	2.000000
+man sitting on a bench drink from a mug surrounded by rugs .	a man is sitting on one of two red benches and staring into a kiosk .	2.200000
+a man eats popcorn while watching cartoons late one night .	a man and a girl are watching cartoons at home	2.800000
+three men sit on a bench .	two men sit on a bench .	3.200000
+the road is long .	there is nothing on the side of the road .	0.800000
+a small blond boy slides head first down a blue playground slide toward another blond youth .	a young boy with his hair standing up , is sliding down a blue slide	2.000000
+the four women are practicing for a upcoming match .	the women are in a play	1.200000
+a young man wearing a white t-shirt and green and black shorts standing on a stump .	a man wearing a white shirt and red and black shorts is running on the sidewalk .	1.800000
+man on steps	a man sits on steps .	4.000000
+a dog under the stairs	a dog is resting on the stairs .	2.200000
+there is a young girl .	there is a young boy with the woman .	1.000000
+two women give a demonstration at a renaissance fair .	two people are doing a demonstration at a renaissance fair .	4.200000
+a woman paints a picture of a large building which can be seen in the background .	a person paints a picture of a large building which can be seen in the background .	4.200000
+some guy sitting on a couch watching television .	a guy is sitting on the couch watching tv	5.000000
+a woman is posing for a christmas card .	a girl is taking a photo .	1.200000
+two kids are playing a game of foosball .	the kids are playing a game with each other .	3.400000
+the man is in a deserted field .	the man is outside in the field .	4.000000
+a little boy is drinking from a juice packet .	a boy is drinking from a juice packet .	4.800000
+a man has his skis ready for the field to get iced out	a man on a boat getting ready to pull in his net to see what he caught .	0.400000
+the biker is doing dangerous stunts .	a biker is doing stunts .	4.400000
+a musician is smearing jam on his white guitar at a concert .	trombonist playing the her instrument in a band for a parade .	0.400000
+a man is working on his farm .	an old guy is working on his farm and a cow kicks him .	2.800000
+a pair of young boys in t-shirts are hiding in the woods with one looking aghast .	two smiling little girls playing in a fountain with other people .	0.000000
+a group of people playing soccer on a soccer field in front of a crowd .	a group of men playing soccer in a stadium full of people .	3.000000
+a man is enjoying watching three asian children dance .	a man is watching three asian kids dance .	4.600000
+a girl is talking to her dad on a cellphone .	a girl is talking on her phone .	4.400000
+one person wields an umbrella .	one person is holding an umbrella .	4.400000
+a woman walking down the side of a highway .	a man is standing on one feet on a bridge .	0.400000
+a group of teenagers jumping and having a good time .	a group of kids having a good time .	3.600000
+a man calling for a taxi at the airport on a sunny day .	a man is outside on a july day .	1.400000
+a man is playing his guitar at joe 's cafe .	the man is playing the drums for his mom .	1.200000
+a young boy has a red fishing pole .	a young boy stands over a bridge with a fishing pole .	3.000000
+a player bounces a ball .	a player catching a ball .	1.600000
+someone is on a blanket .	the person is making a blanket .	1.400000
+men competing in a contest .	two women compete in a contest .	2.400000
+the puppy is outdoor .	a man in printed board shorts is doing a yoga pose on the beach .	0.000000
+the man has a orange shirt .	the woman has a orange shirt .	3.400000
+the two kids look at the products sold inside the subway shop .	the kids are stealing from a store .	0.800000
+the baby boy wants his mother .	a baby boy is happy to see his mother .	2.800000
+a young girl in a pink jacket is playing a board game .	a boy in a jacket playing .	1.600000
+a smiling caucasian male wearing a blue and black striped shirt it about to take a photograph .	a man in a white shirt and black pants is smiling .	1.600000
+a person is scaling a rock wall .	a person and a horse are above a fence .	0.200000
+a boy is very close to a girl .	a girl is close to a boy whose face is not shown .	3.200000
+two men are playing a game of scrabble together .	the two women are playing a game .	2.200000
+six children are cleaning a room .	two male children cleaning up leaves in a parking lot .	1.600000
+the girl is very skilled and practices a lot .	the man is very skilled .	2.000000
+many guards are standing in front of the starting line of a race .	two men in business dress are standing by the side of a road .	0.400000
+there is a cook preparing food .	a cook is making food .	5.000000
+two men are helping a boy .	two men are with a young child .	3.600000
+a man at a farmers market .	a man is at a farmers market .	4.800000
+four people walk toward a tower	two men walk toward a dome-shaped building .	2.000000
+a little girl and boy are reading books .	an older child is playing with a doll while gazing out the window .	0.200000
+the child would like to swim .	the children want to swim .	3.800000
+two skiing people are doing cross country skiing .	people skiing cross country .	3.600000
+a dog taking a poop in the street .	a man making balloon animals for two children on a street corner .	0.400000
+men are fighting after a basketball game .	the men are playing a game of basketball .	2.200000
+a kid is talking in class .	a girl is going to class .	1.800000
+the women are trying to sell something to the individual .	the men are trying to make some money .	1.200000
+people are waiting for the fireworks to start .	three people are waiting for the rain to stop .	1.200000
+a dog prepares to herd three sheep with horns .	a dog and sheep run together .	2.200000
+people are sitting around dimly lit tables while smiling and laughing .	people are sitting on benches .	2.000000
+a dog is chasing cows .	a white dog is chasing cows .	4.000000
+one football player tries to tackle a player on the opposing team .	a football player attempts a tackle .	4.600000
+three men are drying to pull a subaru out of a ditch along a mountain road .	two men are waiting for a ride on the side of a dirt road .	1.400000
+a woman does n't have her arms up because she 's paralyzed from the neck down	a woman is sitting on the steps because she tripped and hurt her ankle .	0.800000
+people gathered in a room .	people gathered together in a room .	5.000000
+the woman in overalls paints a picture for her wall .	a woman is painting her wall white .	2.600000
+adding aspirin to the water could kill the plant .	men are trying to remove oil from a body of water .	0.000000
+five kids are standing in front of a tent .	people are out sitting in front of a garden .	0.600000
+female in a maroon shirt engaged in conversation with another female in a tan blazer .	a girl in a blue dress and another girl in a purple dress , both smiling .	1.200000
+baseball players playing a game at the park .	a basketball player , playing in the home coming game .	1.600000
+they are preparing for a performance at school .	two medical professionals in green look on at something .	0.000000
+the woman is wearing yellow .	the woman is wearing red .	2.800000
+some smiling children are standing in front of an ocean sunset .	people walking in the dark .	0.600000
+a man is doing a stunt on his bicycle .	a man is doing a wheelie on his motorcycle .	3.200000
+ten people riding atvs .	4 people are riding bikes	1.600000
+two fishermen try to untangle their large fishing net on the side of the road on a cloudy day .	several men pull a fishing net up on to the beach .	3.000000
+a yellow vested person is doing road work .	a person is doing very well on their skateboard .	0.200000
+the woman had brown hair .	the woman has gray hair .	2.400000
+black and white image of a wave crashing in the ocean .	a small black dog in the ocean with some rocks in the background	0.600000
+a lady and her daughter look through a microscope .	a girl and a lady both looking through a microscope .	4.600000
+two workers are sitting next to pipes eating lunch	the construction workers are sitting down to eat lunch .	3.800000
+a boy does a skateboard trick on the stairs downtown .	a boy is running on the sidewalk	0.600000
+a group of people living in the desert	a group of people in the middle of the desert .	4.000000
+two kids are swimming .	six kids are going swimming .	2.800000
+three humans are walking a dog .	three people are walking a dog .	4.800000
+there are people out on the street .	people are out on the street .	5.000000
+people getting their dirty clothes cleaned	people are getting their clothes cleaned .	5.000000
+two women are lost and calling for help .	two asian men are gathering materials for their business and their child had to come with them .	0.200000
+a man is throwing a penny into a fountain .	a little boy is throwing a man in water .	0.600000
+the children are holding musical instruments .	a group of children are singing and playing instruments	3.400000
+two girls are playing doctor inside their house .	the two girls are walking with their father .	0.800000
+a crowd of men wearing paper numbers on their shirts run in a race .	several men running down a grass field wearing numbers on the front of their shirts .	3.600000
+a group of people are wearing police uniforms conducting an arrest .	a group of police officers are wearing protection .	2.800000
+the fruits should be eaten with lemon juice in order to prevent oxidation in your stomach .	three dogs growling on one another	0.000000
+a doctor prescribes medicine to a patient .	a doctor prescribes a medicine .	4.400000
+a woman is in the bathroom .	the woman is in a bathroom .	4.600000
+spectators taking pictures of a rally car .	a crowd of people watching cars race down the track .	2.800000
+the man and woman are resting on a couch .	a man and woman are asleep on the couch .	4.000000
+the man is planning to shoot a wedding	the woman is going to a wedding .	1.400000
+the boy in the green jersey plays goalie on the soccer team .	the team in blue is playing a game against the team in white	1.000000
+the child 's bike got wet .	she is putting away the bike .	1.200000
+a soldier walks a dog .	a man walks a dog .	3.200000
+a shirtless woman is operating a lawn mower .	a girl is mowing the grass with a lawn mower .	3.000000
+people are near water	people are near water .	5.000000
+the two officers are driving	two officers are on horses .	2.200000
+friends walk into a building	a man walks along walkway to the store	0.400000
+the lady looks sad because no one is buying her wares .	the lady is selling things .	2.000000
+the rollerblades are moving .	two vehicles are going towards the camera .	0.800000
+there is a older man near a window .	a boy is near some stairs .	0.400000
+a guy and a girl are rock climbing with backpacks on .	two boys are riding on a toy with a blonde girl running long side of them .	0.000000
+in abu dhabi the golden market is one of the premier public outdoor shopping areas .	a busy city square in an asian country .	1.600000
+a pregnant woman is in labor	a woman has a child .	1.600000
+a flock of birds hovered over the sandy beach .	birds are flying at a beach .	3.800000
+people walk home	people waiting .	1.600000
+the religious people are enjoying the outdoors .	the group of people are enjoying the outdoors .	3.600000
+a girl in water without goggles or a swimming cap .	a girl in water , with goggles and swimming cap .	3.000000
+a man is performing a stunt outdoors .	a young man on a beach is performing skateboard stunts .	2.800000
+a man is laughing with a woman	a man and a woman laughing .	4.800000
+he is about to run into the boat	the man is getting his boat clean to take it out on the water .	1.200000
+2 cows are in a field .	two sheep are in a field .	2.400000
+a wet child enjoys the summer .	a woman is enjoying the summer weather .	1.800000
+there was girl stranded on the roof .	the couple was on the bed .	0.200000
+there are four snowboarders going off a jump and that are in the air .	two racers are coming to a turn .	1.000000
+the girl has a driver 's license	a man has a driver 's license .	2.600000
+people on motorcycles wearing racing gear ride around a racetrack	people on motorcycles ride around a racetrack	3.800000
+a man is standing on the ground with a paintbrush	a man with a crutch lying on the ground .	1.200000
+the kids are at the theater watching a movie .	it is picture day for the boys	0.200000
+two women walk down the sidewalk to the store .	two women walk down the sidewalk in the afternoon .	3.800000
+a man has his son on his back	a man spent his time with his son .	2.400000
+a group of dark-skinned people are walking past barbed wire .	two women are gossiping by a fence .	0.400000
+zombies parading around eating brains .	the zombies are eating flesh together .	3.400000
+a group of people are sitting at at a beach on towels watching the blue angels .	a group of people are sitting at a beach watching the blue angels .	4.200000
+a basketball player makes the 5th rebound of the night ,	a tennis player in the middle of a game .	1.400000
+three people are meeting for coffee .	two people make coffee .	2.400000
+a young girl with dirt on her face and a red child 's bike is in the background .	the old woman in shorts and a white t-shirt is standing on a path watching children play .	0.800000
+a helicopter is getting ready to take off .	the plane is getting ready to take off .	2.800000
+a line of scooters are parking in the middle of a street .	a line of motor bikes are parked in the middle of a street .	4.400000
+a man holding a cat .	a man holding a dog .	3.000000
+a man doing a jumping bike trick surrounded by trees .	a boy riding a green trick bike over some steps outdoors .	3.000000
+three guys in speedos have their feet up on the railing of a boat getting a tan .	a few men on the deck are dropping another man into the water	1.600000
+a group wading across a witch	a group wading across a ditch	2.800000
+a woman jumps and poses for the camera .	a woman poses for the camera .	4.000000
+a man is on a rooftop	a man is holding a microphone in a room .	0.800000
+there are two men near a wall .	three women are sitting near a wall .	2.000000
+the cats are running through the grass .	some dogs running through the park .	2.000000
+the two boys are playing kick ball back and forth to each other .	the players are kicking each other while attempting to kick the ball .	3.000000
+two girls are running .	three boys are running .	2.200000
+the two men are wearing jeans .	the two men are wearing pants .	4.400000
+a little girl in a white blouse and blue pants frolics on the grass .	a woman in a green shirt and white pants golfs on the green .	1.800000
+the man without a shirt is jumping .	the man jumping is not wearing a shirt .	4.600000
+the woman is holding the hands of the man .	the woman is checking the eyes of the man .	2.400000
+a man walks his dog on the beach .	a man with his dog on the beach .	4.400000
+the child is the woman 's kid .	there is a boy and a girl .	0.800000
+a soccer player is kicking the ball .	the soccer player gave the ball a high kick .	3.800000
+two boys in black swimming trunks are holding another boy by his arms and legs on a beach .	man in white shirt flipping young boy in the water with four other boys surrounding them .	1.400000
+the player shoots the winning points .	the basketball player is about to score points for his team .	2.800000
+a man in a white shirt and hat playing a guitar .	a man in a green shirt and black hat playing a guitar on stage .	2.800000
+a black hooded man is using a large magnifying glass to look at a booklet .	a white hooded woman is using a magnifying glass to look at a booklet .	2.800000
+the people are running a marathon	people are running a marathon	5.000000
+a motorcross driver going by during a race	a race car driver performs in the race of his life .	3.000000
+a group of people are nervous about crossing the water .	a group of people are on the water .	2.200000
+a group of kids are having a jumping contest .	a group of kids are having a sleepover .	1.200000
+the gate is blue .	the gate is yellow .	1.600000
+the person is wearing a fedora .	a man is wearing a uniform .	1.600000
+a woman and a man embrace while watching a horror movie .	a man and a woman watch a movie together .	2.800000
+a man in a blue dress shirt .	a man in a white shirt and blue pants is talking with a woman in a pink shirt .	1.800000
+a couple is playing the game of life .	the family is playing a game together .	2.600000
+the head of a child with dark glasses is in focus .	there is a woman with a full head of hair .	0.200000
+a dog walks along a beach with breaking waves .	a boy with an oar walks out of the surf and onto a beach .	1.000000
+a pair of men walk along the beach .	two men standing in the surf on a beach .	2.600000
+blond woman in a tunnel .	the couple kissing is near a blond woman .	1.600000
+a maintenance guy is repairing a net on a tennis court .	a man removing a tennis net .	2.400000
+a kid sits on a soccer ball outside .	a kid sitting on a soccer ball at the park .	4.200000
+the raven droned as is hopped along the grass .	the skinny dog with the long tail is traveling through the field .	0.200000
+a man in a brown coat rubs his nose .	a bald man with a red beard holds his hand near his mouth .	2.200000
+the dog is chasing the geese .	one dog is chasing the other .	1.600000
+small child playing with letter p	2 young girls are sitting in front of a bookcase and 1 is reading a book .	0.800000
+a brown dog is jumping .	a brown dog is jumping	5.000000
+the man is catching a ball	a man is kicking a ball .	3.000000
+two men are sitting in the room .	two men are standing in a room .	3.000000
+a group of teenagers in red shirts are smiling .	a group of people are wearing orange shirts .	1.200000
+the woman is waiting for her date .	the woman is on her way to a date .	3.200000
