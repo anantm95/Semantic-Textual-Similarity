@@ -1,7 +1,7 @@
 
 # Semantic Textual Similarity
 
-#### Yezheng Li&emsp;&emsp;&emsp;&emsp;&emsp;Danni Ma&emsp;&emsp;&emsp;&emsp;&emsp;Anant Maheshwari&emsp;&emsp;&emsp;&emsp;&emsp;Simeng Sun
+#### Anant Maheshwari&emsp;&emsp;&emsp;&emsp;&emsp;Simeng Sun&emsp;&emsp;&emsp;&emsp;&emsp;Danni Ma&emsp;&emsp;&emsp;&emsp;&emsp;Yezheng Li
 
 
 ## Abstract
